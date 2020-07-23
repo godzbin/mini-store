@@ -35,4 +35,4 @@ npm run start
 ## 打包
 `npm run build`
 
-会将最新的包更新到public文件夹中
+会将最新的包更新到dist文件夹中
