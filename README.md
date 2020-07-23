@@ -2,19 +2,31 @@
 nodejs + sqlite + vue 小型商品展示页
 
 ## 安装依赖
+```
 npm install
 
-## 启动
-npm run start
+cd store-web
 
+npm install
+```
+## 启动(先打包前端，后启动node)
+```
+cd store-web
+
+npm run build
+
+cd ../
+
+npm run start
+```
 # 如果要调试前端
 打开store-web目录
 
 ## 安装依赖
-npm install
+`npm install`
 ## 启动
-npm run serve
+`npm run serve`
 ## 打包
-npm run build
+`npm run build`
 
 会将最新的包更新到public文件夹中
