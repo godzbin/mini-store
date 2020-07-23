@@ -1,7 +1,7 @@
 .DS_Store
+public/*
 node_modules
 /dist
-/public
 
 # local env files
 .env.local
