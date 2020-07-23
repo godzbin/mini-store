@@ -5,7 +5,7 @@ nodejs + sqlite + vue 小型商品展示页
 npm install
 
 ## 启动
-##npm run start
+npm run start
 
 # 如果要调试前端
 打开store-web目录
